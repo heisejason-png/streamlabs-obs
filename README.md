@@ -177,4 +177,4 @@ engine.  We want to thank all of the developers over at the OBS project for
 their years of tireless hard work, without which Streamlabs OBS wouldn't exist today.
 Created by Jason Scott Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg 
